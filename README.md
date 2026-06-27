@@ -3,6 +3,10 @@ Modular base for a first-person Godot 3D game with customizable interactive tile
 
 *Feel free to use as a starting point for your project!*
 
+> [!NOTE]
+> There's a newer version avalible at - [godot-tile-game](https://github.com/JustKesha/godot-tile-game)<br>
+> Which uses a different, cleaner approach to tile customization!
+
 - [Contents](#includes)
 - [Showcase](#simple-example)
 - [Inventory](#inventory-system)
